@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Teleportable
+  - Platform
+  - Cart
+  - Scarecrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - FeetCollider
+  - JumpDown
+  - PlatformBorder
+  - EnemySolid
+  - EnemyBorder
+  - Player's Weapon
+  - OneWay
+  - PlatformOneWay
+  - GroundSlope
+  - EnemyTransparent
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background2
+    uniqueID: 3201531963
+    locked: 0
+  - name: Background1
+    uniqueID: 637409595
+    locked: 0
+  - name: WaterBackground
+    uniqueID: 3294408521
+    locked: 0
+  - name: BackObjects
+    uniqueID: 3161877661
+    locked: 0
+  - name: MiddleSolid
+    uniqueID: 514588023
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WaterFront
+    uniqueID: 2287013955
+    locked: 0
+  - name: FrontObjects
+    uniqueID: 2492685113
+    locked: 0
+  - name: HUD
+    uniqueID: 2602527849
+    locked: 0
